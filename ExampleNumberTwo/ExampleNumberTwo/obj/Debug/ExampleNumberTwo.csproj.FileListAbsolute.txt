@@ -1,0 +1,10 @@
+C:\Users\закарьянова.CORP\source\repos\ExampleNumberTwo\ExampleNumberTwo\bin\Debug\ExampleNumberTwo.exe.config
+C:\Users\закарьянова.CORP\source\repos\ExampleNumberTwo\ExampleNumberTwo\bin\Debug\ExampleNumberTwo.exe
+C:\Users\закарьянова.CORP\source\repos\ExampleNumberTwo\ExampleNumberTwo\bin\Debug\ExampleNumberTwo.pdb
+C:\Users\закарьянова.CORP\source\repos\ExampleNumberTwo\ExampleNumberTwo\obj\Debug\ExampleNumberTwo.csprojResolveAssemblyReference.cache
+C:\Users\закарьянова.CORP\source\repos\ExampleNumberTwo\ExampleNumberTwo\obj\Debug\ExampleNumberTwo.Form1.resources
+C:\Users\закарьянова.CORP\source\repos\ExampleNumberTwo\ExampleNumberTwo\obj\Debug\ExampleNumberTwo.Properties.Resources.resources
+C:\Users\закарьянова.CORP\source\repos\ExampleNumberTwo\ExampleNumberTwo\obj\Debug\ExampleNumberTwo.csproj.GenerateResource.Cache
+C:\Users\закарьянова.CORP\source\repos\ExampleNumberTwo\ExampleNumberTwo\obj\Debug\ExampleNumberTwo.csproj.CoreCompileInputs.cache
+C:\Users\закарьянова.CORP\source\repos\ExampleNumberTwo\ExampleNumberTwo\obj\Debug\ExampleNumberTwo.exe
+C:\Users\закарьянова.CORP\source\repos\ExampleNumberTwo\ExampleNumberTwo\obj\Debug\ExampleNumberTwo.pdb
